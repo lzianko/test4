@@ -1,0 +1,21 @@
+.long_card{
+    transition: 0.5s;
+}
+.long_card:hover{
+    background-color: rgb(200, 199, 199);
+    transform: translateY(-5px);
+}
+.short_card{
+    transition: 0.5s;
+}
+.short_card:hover{
+    background-color: rgb(200, 199, 199);
+    transform: translateY(-5px);
+}
+
+.team__icon-container{
+    transition: 0.5s;
+}
+.team__icon-container:hover{
+    transform: translateY(-5px);
+}
