@@ -1,0 +1,153 @@
+a{
+    font-family: 'Cabin', sans-serif; 
+    color: #fff;
+}
+h1{
+    font-family: 'Cabin', sans-serif; 
+}
+h2{
+    font-family: 'Cabin', sans-serif; 
+}
+p{
+    font-family: 'Lato', sans-serif;
+}
+
+button{
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+.orange{
+    background: rgba(255, 204, 74, 1);
+    
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.145em;
+    text-align: left;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+
+    border-radius: 10px;
+    color: black;
+
+
+}
+
+.green{
+    background: rgba(78, 175, 78, 1);
+
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.145em;
+    text-align: left;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+
+    border-radius: 20px;
+    color: black;
+
+
+}
+
+.paln__text-color{
+    background: rgba(62, 62, 62, 1);
+
+    width: 132px;
+    height: 24px;
+
+    font-family: 'Lato', sans-serif;
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.145em;
+    text-align: left;
+
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+
+    border-radius: 10px;
+    color: white;
+
+}
+.paln__text-color_green{
+    background: rgba(78, 175, 78, 1);
+
+    width: 132px;
+    height: 24px;
+
+    font-family: 'Lato', sans-serif;
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.145em;
+    text-align: left;
+
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+
+    border-radius: 10px;
+    color: white;
+
+}
+
+
+
+.plan__button-get{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 332px;
+    height: 40x;
+    padding: 15px 109px 15px 109px;
+    border-radius: 42px;
+    border: 1px;
+    gap: 10px;
+    border: 1px solid rgba(214, 214, 214, 1);
+
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.plan__button_orange-get{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 332px;
+    height: 40x;
+    padding: 15px 109px 15px 109px;
+    border-radius: 42px;
+    border: 1px;
+    gap: 10px;
+    background: rgba(255, 204, 74, 1);
+
+
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
